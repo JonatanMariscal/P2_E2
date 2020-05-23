@@ -13,14 +13,13 @@ Visualizador DICOM con las siguientes funciones:
 
 ## Ejemplos
 ### Visualizador síncrono
-<img src="/imgs/view1.png" width="75%" height="75%">
+<img src="/imgs/view_doble.png" width="75%" height="75%">
 
 ### Visualizador de imagen fusionada
-<img src="/imgs/view2.png" width="75%" height="75%">
-<img src="/imgs/view3.png" width="75%" height="75%">
+<img src="/imgs/view_alpha.png" width="75%" height="75%">
 
 ### Segmentación de imagen
-<img src="/imgs/view4.png" width="75%" height="75%">
+<img src="/imgs/view_seg.png" width="75%" height="75%">
 
 Jonatan Mariscal García | 
 Universitat de les Illes Balears
