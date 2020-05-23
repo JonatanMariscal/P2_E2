@@ -206,8 +206,8 @@ def main():
     # Select which images to display:
     # Brain -> ds_array / Brain_register -> ds_array_register / phantom -> phantom_array / atlas_register -> atlas_array
     # atlas register to brain -> atlas_array_brain
-    image_1 = ds_array
-    image_2 = atlas_array_brain
+    image_1 = ds_array_register
+    image_2 = phantom_array
 
     # Displaying images on synchron visualizer
     fig, axs = plt.subplots(1, 2, figsize=(12, 4), dpi=100, sharex=True, sharey=True)
